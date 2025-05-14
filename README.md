@@ -12,7 +12,7 @@
 
 <b>🔹 🛠️ Depending on it, I can contribute to projects.</b><br>
 
-<b>🔹 📖 I'm learning more about: C#, PHP, and Typescript.</b> <br>
+<b>🔹 📖 I'm learning more about: Typescript.</b> <br>
 
 <!-- Linguagens que eu uso -->
 <h3>🧰 Languages and Frameworks I work with:</h3>
@@ -21,8 +21,7 @@
 <a href="https://en.wikipedia.org/wiki/MySQL"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" /></a> <!-- MySQL -->
 <a href="https://en.wikipedia.org/wiki/JavaScript"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" /></a> <!-- Javascript -->
 <a href="https://en.wikipedia.org/wiki/React_(software)"> <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" /></a> <!-- React -->
-<a href="https://en.wikipedia.org/wiki/HTML"> <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" /></a> <!-- HTML -->
-<a href="https://en.wikipedia.org/wiki/CSS"> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" /></a> <!-- CSS -->
+<a href="https://en.wikipedia.org/wiki/PHP"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" /></a> <!-- PHP -->
 
 <!-- Software que eu uso -->
 <h3>🛠️ Software I use for work or general use:</h3>
@@ -33,6 +32,6 @@
 
 <!-- Meus contatos -->
 <h3>💭 You can talk with me here:</h3>
-<a href="mailto:arthurfcdev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a> <!-- Gmail -->
+<a href="mailto:arthurfc-dev@protonmail.com"> <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" /></a> <!-- Proton Mail -->
 <a href="https://www.linkedin.com/in/arthurfc/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a> <!-- LinkedIn -->
 <a href="https://api.whatsapp.com/send/?phone=%2B5581996930346&text&type=phone_number&app_absent=0"> <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" /></a> <!-- Whatsapp -->
