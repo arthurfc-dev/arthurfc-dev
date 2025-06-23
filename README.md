@@ -11,7 +11,7 @@
 
 <b>🔹 🛠️ Depending on it, I can contribute to projects.</b><br>
 
-<b>🔹 📖 I'm learning more about: Typescript.</b> <br>
+<b>🔹 📖 I'm learning more about: C++, C#, Docker and Vue.js.</b> <br>
 
 <!-- Linguagens que eu uso -->
 <h3>🧰 Languages and Frameworks I work with:</h3>
@@ -20,12 +20,15 @@
 <a href="https://en.wikipedia.org/wiki/MySQL"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" /></a> <!-- MySQL -->
 <a href="https://en.wikipedia.org/wiki/JavaScript"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" /></a> <!-- Javascript -->
 <a href="https://en.wikipedia.org/wiki/React_(software)"> <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" /></a> <!-- React -->
+<a href="https://en.wikipedia.org/wiki/TypeScript"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" /></a> <!-- Typescript -->
+<a href="https://en.wikipedia.org/wiki/Node.js"> <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" /></a> <!-- Node -->
 <a href="https://en.wikipedia.org/wiki/PHP"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" /></a> <!-- PHP -->
 
 <!-- Software que eu uso -->
 <h3>🛠️ Software I use for work or general use:</h3>
 <a href="https://www.mozilla.org/pt-BR/firefox/new/"> <img src="https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white" /></a> <!-- Firefox -->
 <a href="https://code.visualstudio.com/"> <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" /></a> <!-- VSCode -->
+<a href="https://www.docker.com/"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" /></a> <!-- Docker -->
 <a href="https://pt.wikipedia.org/wiki/Linux"> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" /></a> <!-- Linux -->
 <a href="https://www.microsoft.com/pt-br/software-download/windows11"> <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" /></a> <!-- Windows -->
 
